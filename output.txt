@@ -1,0 +1,4 @@
+Customer: Denzyl Joaquino
+Total: $148.50
+Is member? true
+Is the total over $200? false
